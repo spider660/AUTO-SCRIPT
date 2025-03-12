@@ -1,11 +1,11 @@
 #!/bin/bash
 # Script UdpCustom 2023
-# Script By NETWORK TWEAKER 
+# Script By SPIDEY 
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition 1.0
-# Auther  : NETWORK TWEAKER 
-# EREN YEAGER AND CYBER NOVA 
+# Auther  : SPIDEY 
+# SPIDER WEB
 # (C) Copyright 2023
 # =========================================
 # pewarna hidup
